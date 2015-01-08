@@ -1,2 +1,2 @@
-# dsn1676-assignment1
-assignment 1 grids and typography
+# dsn1676-week-1
+Review all the things!
