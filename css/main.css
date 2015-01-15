@@ -17,3 +17,23 @@ html {
 *, *::before, *::after {
     box-sizing: inherit;
 }
+
+.title {
+    display: inline-block;
+    background-color: #E7E5D9;
+    vertical-align: middle;
+    margin: 0
+}
+
+.logo {
+    vertical-align: middle;
+    margin: 0 0.4em 0;
+    width: 1em;
+}
+    
+
+.masthead {
+    background: url(/Users/shelbyboyd/Documents/Graphic%20Design%203%20F%202014/Graphic%20Design%204W/Web%20Development%203/week%201%20/assignment1/dsn1676-assignment1/images/masthead-bg.png) repeat;
+    text-align: center;
+}
+
